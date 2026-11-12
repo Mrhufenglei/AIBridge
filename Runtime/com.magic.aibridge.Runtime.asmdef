@@ -1,9 +1,7 @@
 {
-    "name": "cn.lys.aibridge.Runtime",
+    "name": "com.magic.aibridge.Runtime",
     "rootNamespace": "AIBridge.Runtime",
-    "references": [
-        "Unity.Newtonsoft.Json"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

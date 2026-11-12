@@ -1,11 +1,11 @@
 {
-  "name": "com.mrhufenglei.aibridge",
+  "name": "com.magic.aibridge",
   "displayName": "AI Bridge",
   "version": "1.1.1",
   "unity": "2021.3",
   "description": "File-based communication framework between AI Code assistants and Unity Editor. Provides stable, extensible command execution without MCP dependencies.",
   "author": {
-    "name": "liyingsong"
+    "name": "magic"
   },
   "keywords": [
     "ai",
@@ -16,6 +16,8 @@
     "automation"
   ],
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "3.2.1"
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.test-framework": "1.1.33",
+    "com.unity.ugui": "1.0.0"
   }
 }

@@ -1,0 +1,26 @@
+{
+    "name": "com.magic.aibridge.Editor.Tests",
+    "rootNamespace": "AIBridge.Editor.Tests",
+    "references": [
+        "com.magic.aibridge.Runtime",
+        "com.magic.aibridge.Editor",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS",
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

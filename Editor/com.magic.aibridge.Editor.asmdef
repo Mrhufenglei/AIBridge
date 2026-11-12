@@ -1,8 +1,8 @@
 {
-    "name": "cn.lys.aibridge.Editor",
+    "name": "com.magic.aibridge.Editor",
     "rootNamespace": "AIBridge.Editor",
     "references": [
-        "cn.lys.aibridge.Runtime"
+        "com.magic.aibridge.Runtime"
     ],
     "includePlatforms": [
         "Editor"
