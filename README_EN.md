@@ -39,7 +39,7 @@ File-based communication framework between AI Code assistants and Unity Editor.
 
 1. Open Unity Package Manager (Window > Package Manager)
 2. Click "+" > "Add package from git URL"
-3. Enter: `https://github.com/wang-er-s/AIBridge.git`
+3. Enter: `https://github.com/Mrhufenglei/AIBridge.git`
 
 ### Manual Installation
 
@@ -152,3 +152,4 @@ MIT License
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+https://github.com/wang-er-s/AIBridge.git

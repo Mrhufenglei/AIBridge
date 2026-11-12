@@ -39,7 +39,7 @@ AI 编码助手与 Unity Editor 之间的文件通信框架。
 
 1. 打开 Unity Package Manager（Window > Package Manager）
 2. 点击 "+" > "Add package from git URL"
-3. 输入：`https://github.com/wang-er-s/AIBridge.git`
+3. 输入：`https://github.com/Mrhufenglei/AIBridge.git`
 
 ### 手动安装
 
@@ -152,3 +152,4 @@ MIT License
 ## 贡献
 
 欢迎贡献！请随时提交 Pull Request。
+https://github.com/wang-er-s/AIBridge.git
